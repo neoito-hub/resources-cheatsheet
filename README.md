@@ -33,8 +33,16 @@
 
 ## Backend development
 ### Beginner
-1. 
-
+1. [Terminus](https://github.com/godaddy/terminus) - Graceful shutdown of node apps
+2. [Flif](http://flif.info/) - Free Lossless Image Format - [nodejs implementation](https://github.com/FLIF-hub/node-flif)
+3. [Fio](https://github.com/gnuns/fio) - Socket relay tool
+4. [MongoDB University](https://university.mongodb.com/) - Learn mongoDB from the creators
+5. [Debugging NodeJS in VSCode](https://code.visualstudio.com/docs/nodejs/nodejs-debugging) - A video of it [here](https://www.youtube.com/watch?v=2oFKNL7vYV8)
+6. [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless chrome/ium implementation on NodeJS
+7. [Prettier](https://github.com/prettier/prettier/) + [ESLint](https://github.com/eslint/eslint) - Beautiful code. **ex:** [VSCode](https://hackernoon.com/configure-eslint-prettier-and-flow-in-vs-code-for-react-development-c9d95db07213)
+8. [Npm Cheatsheet](https://devhints.io/npm)
+9. [Yarn vs Npm](https://devhints.io/yarn) - Sort of a cheatsheet
+10. [VSCode Keybinds](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf) - Linux
 ### Intermediate
 1.
 
