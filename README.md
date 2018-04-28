@@ -56,6 +56,7 @@
 8.  [Npm Cheatsheet](https://devhints.io/npm)
 9.  [Yarn vs Npm](https://devhints.io/yarn) - Sort of a cheatsheet
 10. [VSCode Keybinds](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf) - Linux
+11. [Mozilla Hacks](https://hacks.mozilla.org/) - Blog for web developers, designers and everyone who builds for the Web
 
 ### Intermediate
 
